@@ -1,0 +1,60 @@
+body{
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar .cat-list{
+  max-height: 500px;
+}
+
+.navbar .cat-list{
+  max-height: 500px;
+}
+
+.navbar .search{
+  background-color: #ebeef0;
+}
+
+.navbar .search-input{
+  background-color: #ebeef0;
+  padding: 0 20px !important;
+  border-left: solid 1px grey !important;
+}
+
+.navbar .search-input:focus{
+  outline: none;
+}
+
+.navbar .search .dropdown{
+  margin-right: 15px;
+}
+
+.s-font{
+  font-size: 14px;
+}
+
+.navbar .search-icon{
+  padding: 12px 0px;
+}
+
+.cars-images{
+  height: 600px;
+}
+
+.cars-images .right-imgs{
+  height: 300px;
+}
+
+.cars-images .bg-strange{
+  background-color: #db5847;
+}
+
+.cars-images .text{
+  top: 110px;
+  left: 80px;
+  width: 40%;
+}
+
+.cars-images .text2 button{
+  width: 35%;
+  font-size: 13px;
+}
